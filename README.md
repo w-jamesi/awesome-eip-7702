@@ -87,6 +87,7 @@
 - [Foundry Delegation Signatures](https://book.getfoundry.sh/cheatcodes/sign-delegation)
 - [Micro Eth Signer](https://github.com/paulmillr/micro-eth-signer)
 - [Wallet Checker](https://7702checker.azfuller.com/)
+- [EIP-7702 Delegation Checker](https://eip7702.app/)
 
 ### Smart account frameworks
 - Metamask: Delegation Framework - [Delegation Framework 7702 Code](https://github.com/MetaMask/delegation-framework/tree/main/src/EIP7702) / [Delegation Framework 7702 Doc](https://github.com/MetaMask/delegation-framework/blob/main/documents/EIP7702DeleGator.md)
