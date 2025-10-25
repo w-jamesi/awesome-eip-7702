@@ -97,3 +97,5 @@
 - [Awesome account abstraction repo (EIP-4337)](https://github.com/4337Mafia/awesome-account-abstraction)
 - [eip7702.io](https://eip7702.io)
 - [Modular Smart Account Changes](https://github.com/erc7579/erc7579-implementation/pull/38)
+
+<!-- Auto-update: 2025-10-25T12:22:28.593871 -->
